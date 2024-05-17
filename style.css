@@ -1,0 +1,10 @@
+body{
+    background: yellow;
+
+}
+canvas{
+    height: 30%;
+    position: absolute;
+    right: 50%;
+
+}
